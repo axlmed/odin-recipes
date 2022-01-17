@@ -17,11 +17,10 @@ h1 {
 
 
 html {
-    background-image: url(../img/spoons.jpg);
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-repeat:repeat-y;
-    
+    background-image: url(../img/better.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    bac
 
 }
 
