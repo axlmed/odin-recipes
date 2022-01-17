@@ -6,22 +6,21 @@
 h1 {
     height:fit-content;
     width: 600px;
-    color: black;
+    color:whitesmoke;
     padding: 5px;
     font-size: 60px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    filter: drop-shadow(35px 35px 35px black);
+    filter: drop-shadow(35px 35px 35px whitesmoke);
     text-decoration: underline;
 }
 
 
 html {
-    background-image: url(../img/knife.jpg);
+    background-image: url(../img/spoons.jpg);
     background-repeat: no-repeat;
     background-size: contain;
-    background-repeat: repeat-y;
-    
+    background-repeat:repeat-y;
     
 
 }
